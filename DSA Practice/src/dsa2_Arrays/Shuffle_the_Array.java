@@ -7,9 +7,10 @@ public class Shuffle_the_Array {
         for(int i = 0; i < n; i++){
 
             ans[2*i] = a[i];
-            
+
             ans[2*i + 1] = a[i + n];
         }
+        System.out.println(ans.length);
         return ans;
     }
 
