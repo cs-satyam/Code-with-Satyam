@@ -1,4 +1,4 @@
-package Arrays;
+package dsa1_Arrays;
 
 public class moveZero {
     public static void main(String[] args) {
