@@ -16,7 +16,8 @@ public class selectionSort {
                 a[min] = temp;
             }
         }
-    }
+    }   
+    
     public static void main(String[] args) {
         int n=5;
         int arr[]={5,1,2,7,3};
