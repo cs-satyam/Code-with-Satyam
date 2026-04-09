@@ -1,5 +1,7 @@
 package Sorting_Algorithms;
 import java.util.Scanner;
+import java.util.SortedMap;
+
 public class bubbleSortSwap {
 
     static void printArray(int[] arr) {
@@ -21,6 +23,8 @@ public class bubbleSortSwap {
                     arr[j + 1] = temp;
 
                     swapCount++;
+                }else{
+                    break;
                 }
             }
         }
@@ -30,16 +34,38 @@ public class bubbleSortSwap {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int n = sc.nextInt();
-        int arr[] = new int[n];
+        int n = 5;
+        int arr[] = {1 ,10 ,7 ,2,5};
 
-        for (int i = 0; i < n; i++) {
-            arr[i] = sc.nextInt();
-        }
 
         int swaps = bubbleSort(arr);
 
         printArray(arr);
         System.out.println("\nSwap count = " + swaps);
+    }
+}
+
+class optimise{
+    public static void main(String[] args) {
+        int n = 5;
+        int a[]={1,10,7,2,5};
+        int swaps = 0;
+        for (int i = 0; i < n; i++) {
+            boolean isSwap = false;
+            for (int j = 0; j < n - i - 1; j++) {
+                if (a[j] > a[j + 1]) {
+                    int temp = a[j];
+
+                    a[j] = a[j + 1];
+                    a[j + 1] = temp;
+                    swaps++;
+                    isSwap = true;
+                }
+            }
+            if (!isSwap) break;
+
+
+        }
+        System.out.println("Swap count = " + swaps);
     }
 }
