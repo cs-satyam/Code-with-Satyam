@@ -12,12 +12,7 @@ public class majorityElement_2 {
             int n=a.length;
             HashMap<Integer,Integer> hm= new HashMap<>();
             ArrayList<Integer> al=new ArrayList<>();
-            if(n<3){
-                for(int i:a){
-                    al.add(i);
-                }
-                return al;
-            }
+
             for (int i = 0; i < n; i++) {
                 if (!hm.containsKey(a[i])) {
                     hm.put(a[i], 1);
