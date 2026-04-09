@@ -1,4 +1,4 @@
-package dsa2_Arrays;
+package dsa2_Arrays.Easy;
 
 public class moveZero {
     static void moveZeroWithTwoPointer(int[] a){

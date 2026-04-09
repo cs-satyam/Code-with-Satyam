@@ -1,4 +1,4 @@
-package dsa2_Arrays;
+package dsa2_Arrays.Easy;
 
 public class Shuffle_the_Array {
     static int[] shuffle(int[] a, int n){

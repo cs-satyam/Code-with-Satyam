@@ -1,4 +1,4 @@
-package dsa2_Arrays ;
+package dsa2_Arrays.Easy;
 
 public class thirdMaxNum {
     static int thirdMax(int a[]){

@@ -1,4 +1,4 @@
-package dsa2_Arrays;
+package dsa2_Arrays.Easy;
 
 public class majorityElement {
     public static void main(String[] args) {
