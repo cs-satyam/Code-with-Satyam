@@ -14,8 +14,6 @@ public class MaxConsecutiveOnes  {
             }
             maxcount = Math.max(maxcount, count);
         }
-
-
         return maxcount;
     }
 
