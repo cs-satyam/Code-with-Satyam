@@ -1,4 +1,4 @@
-package Sorting_Algorithms;
+package dsa1_Sorting_Algorithms;
 
 import java.util.Scanner;
 

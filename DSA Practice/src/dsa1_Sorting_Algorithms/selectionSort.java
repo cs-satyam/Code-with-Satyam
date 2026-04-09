@@ -1,4 +1,4 @@
-package Sorting_Algorithms;
+package dsa1_Sorting_Algorithms;
 
 public class selectionSort {
     static void sort(int a[]){

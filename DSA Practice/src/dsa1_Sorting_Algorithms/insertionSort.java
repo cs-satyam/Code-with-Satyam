@@ -1,4 +1,4 @@
-package dsa1_Arrays;
+package dsa1_Sorting_Algorithms;
 
 
 
