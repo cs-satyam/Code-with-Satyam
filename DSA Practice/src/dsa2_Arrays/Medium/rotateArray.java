@@ -4,10 +4,7 @@ public class rotateArray {
     public static void main(String[] args) {
         int a[]={1,2,3,4,5,6,7};
         int k=3;
-
         rotate(a,k);
-
-
         for(int i:a){
             System.out.print(i+" ");
         }   
