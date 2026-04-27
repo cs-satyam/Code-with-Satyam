@@ -84,7 +84,7 @@ public class BFSGraph {
     4
 
 
-0 -> 1
+ 0 -> 1
 
 1 -> 0, 2, 3
 
