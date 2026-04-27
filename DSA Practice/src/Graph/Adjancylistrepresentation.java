@@ -1,4 +1,4 @@
-package Graph.AdjanceyList;
+package Graph;
 import java.util.*;
 public class Adjancylistrepresentation {
     static class Edge{
