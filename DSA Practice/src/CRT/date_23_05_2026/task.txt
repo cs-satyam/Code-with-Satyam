@@ -1,0 +1,15 @@
+Finish the following task ;
+
+LC-> 1920
+LC-> 1365
+LC-> 1295
+LC-> 1470
+LC-> 88
+LC-> 1089
+LC-> 27
+LC-> 26
+LC-> 283
+LC-> 704
+LC-> 35
+LC-> 977
+LC-> 344
