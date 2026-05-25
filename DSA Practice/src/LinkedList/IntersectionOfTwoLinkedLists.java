@@ -24,7 +24,6 @@ public class IntersectionOfTwoLinkedLists {
     public static void main(String[] args) {
         Node common = new Node(8);
         common.next = new Node(10);
-
         Node head1 = new Node(3);
         head1.next = new Node(6);
         head1.next.next = new Node(9);

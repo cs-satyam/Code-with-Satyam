@@ -1,15 +1,18 @@
 Finish the following task ;
 
-LC-> 1920
-LC-> 1365
-LC-> 1295
-LC-> 1470
-LC-> 88
-LC-> 1089
-LC-> 27
-LC-> 26
-LC-> 283
-LC-> 704
-LC-> 35
-LC-> 977
-LC-> 344
+LC-> 169
+LC-> 2344
+
+        Find GCD of all elements in numsDivide
+        Sort nums
+        Find first element in nums that divides GCD
+        Its index = minimum deletions
+        If no element divides GCD → return -1
+
+        Because if a number divides the GCD, it divides every element in numsDivide.
+
+LC-> 152
+LC-> 2428
+
+
+

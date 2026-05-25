@@ -17,7 +17,7 @@ class calc{
          System.out.println(res);
      }
 }
-public class launch {
+public class launch2 {
     public static void main(String[] args) {
         calc c= new calc();
         c.sub(10,20);
