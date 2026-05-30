@@ -1,8 +1,6 @@
 package OOPs.Constructor;
 
 
-import java.sql.SQLOutput;
-
 class Dog{
     int cost;
     String name;
@@ -40,7 +38,7 @@ class Dog{
     }
 
 }
-public class launchConstructor {
+public class launchConstru1 {
     public static void main(String[] args) {
 
         Dog d1=new Dog(10000,"Sheru","White");

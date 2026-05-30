@@ -7,9 +7,6 @@ public class launchMo2 {
         main(44);
         main("rohan",4);
         main("satyam");
-
-
-
     }
 
     public static void main(int  args) {
