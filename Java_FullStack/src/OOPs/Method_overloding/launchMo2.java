@@ -2,7 +2,7 @@ package OOPs.Method_overloding;
 
 public class launchMo2 {
 
-    public static void main(String[] args) {
+    public static void main(String kdfhuis) {
         System.out.println("main method with string of args[]");
         main(44);
         main("rohan",4);
@@ -21,7 +21,7 @@ public class launchMo2 {
         System.out.println("main method with string  and int of  args ");
 
     }
-    public static void main(String name) {
+    public static void main(String[] name) {
         System.out.println("main method with string   args ");
     }
 

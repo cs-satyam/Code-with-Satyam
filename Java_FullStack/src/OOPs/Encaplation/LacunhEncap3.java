@@ -12,10 +12,10 @@ class learner{
        id=i;
    }
    void  setName(String name){
-       name=name;
+       this.name=name;
    }
-   void  setCity(String city){
-      city=city;
+   void  setCity(String c){
+      city=c;
    }
 
    // getter
