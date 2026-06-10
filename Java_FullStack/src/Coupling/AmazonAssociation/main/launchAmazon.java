@@ -23,15 +23,18 @@ public class launchAmazon {
 //            You only need to do two things:
 //                      Mark both classes as Spring beans.
 //                      Provide a constructor in the target class.
+//         when spring creat it self the term called spring Bean
 
         amazon amz = new amazon( new firstFlight() );
+
+//        Bean
 
 //        fedEx fed = new fedEx();
 //        amz.setService(fed);
 
 //         Setter injection
 //        amz.setService(new fedEx());
-//        amz.setService(new blueDart());
+        amz.setService(new blueDart());
 //        amz.setService(new firstFlight());
 
         Boolean status = amz.deliverTheProduct(452.6);
