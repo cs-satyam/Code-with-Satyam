@@ -1,4 +1,4 @@
-package CRT.date_22_05_2026;
+package CRT;
 
 public class largestNumber {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package CRT.date_26_05_2026;
+package CRT;
 
 // https://leetcode.com/problems/backspace-string-compare/
 public class LC_844 {
