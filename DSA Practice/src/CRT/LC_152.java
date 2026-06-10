@@ -1,4 +1,4 @@
-package CRT.date_23_05_2026;
+package CRT;
 
 public class LC_152 {
 

@@ -13,11 +13,11 @@ class finisher{
         System.out.println("Zero parameter constructor");
     }
 
-    finisher(int id,String name,String city){
+    finisher(finisher fs, int id,String name,String city){
         super();
-        this.id = id;
-        this.name = name;
-        this.city = city;
+        fs.id = id;
+        fs.name = name;
+        fs.city = city;
         System.out.println(" param constructor");
     }
     void setId(int id){   this.id = id;  }
@@ -29,7 +29,6 @@ class finisher{
 
     void setCity(String city){  this.city = city;  }
     String getCity(){  return city;  }
-
 
 
 
@@ -46,12 +45,12 @@ public class launchConstru3 {
 
         System.out.println("&&&&&&&&&&&&&&&");
 
-        finisher f2=new finisher(2,"rahul","tamilnadu");
-        f2.setId(3);
-        f2.setName("Kunal");
-        f2.setCity("tenali");
+        finisher f2=new finisher(f1,2,"rahul","tamilnadu");
+//        f2.setId(3);
+//        f2.setName("Kunal");
+//        f2.setCity("tenali");
 
-        System.out.println(f2.getId()+" "+f2.getName()+" "+f2.getCity());
+        System.out.println(f1.getId()+" "+f1.getName()+" "+f1.getCity());
 
     }
 }
