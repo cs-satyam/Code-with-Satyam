@@ -8,31 +8,6 @@ public class removeDuplicates1047
         String s="abbaca";
         System.out.println(removeDuplicates(s));
     }
-    public static String emoveDuplicates(String s)
-    {
-        Stack<Character> st = new Stack<>();
-        StringBuilder sb = new StringBuilder();
-
-        for(int i=0;i<s.length();i++){
-            if(st.isEmpty()){
-                st.push(s.charAt(i));
-
-            }else{
-                if(st.peek()==s.charAt(i)){
-                    st.pop();
-                }else{
-                    st.push(s.charAt(i));
-                }
-
-            }
-        }
-        while(!st.isEmpty()){
-            sb.append(st.peek());
-            st.pop();
-        }
-
-        return sb.reverse().toString();
-    }
     public static String removeDuplicates(String s)
     {
         Stack<Character> st = new Stack<>();
@@ -59,4 +34,3 @@ public class removeDuplicates1047
         return sb.reverse().toString();
     }
 }
-
