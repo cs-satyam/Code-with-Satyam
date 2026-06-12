@@ -28,6 +28,7 @@ public class amazon {
 
 //        tight coupling
 
+
 //        fedEx fed = new fedEx();
 //        return  fed.deliverProduct(amount);
 
