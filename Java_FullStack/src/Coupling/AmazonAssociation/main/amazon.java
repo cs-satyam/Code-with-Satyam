@@ -16,7 +16,7 @@ public class amazon {
     }
 
     public void setService(ideliveryService service){  // ideliveryService service = new fedEx();
-;        this.service=service;
+      this.service=service;
     }
     public amazon (){
 
