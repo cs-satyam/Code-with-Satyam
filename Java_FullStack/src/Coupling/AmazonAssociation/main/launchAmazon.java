@@ -26,6 +26,7 @@ public class launchAmazon {
 //         when spring creat it self the term called spring Bean
 
         amazon amz = new amazon( new firstFlight() );
+        //
 
 //        Bean
 
