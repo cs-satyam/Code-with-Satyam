@@ -12,6 +12,9 @@ public class sister implements familymember {
     public void cooking(){
         System.out.println("Sister is helping in  cooking");
     }
+    public void studying() {
+        System.out.println(" Sister is studing");
+    }
 
     public void sleeping(){
         System.out.println("Sister is sleeping ");

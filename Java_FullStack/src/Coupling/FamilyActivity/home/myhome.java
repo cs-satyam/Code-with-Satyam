@@ -2,7 +2,7 @@ package Coupling.FamilyActivity.home;
 
 import java.util.List;
 
-public class myhome implements home {
+public class myhome {
 
     private List<familymember> members;
 
@@ -10,11 +10,5 @@ public class myhome implements home {
         this.members = members;
     }
 
-    @Override
-    public void showMembers() {
 
-        for (familymember member : members) {
-            member.introduce();
-        }
-    }
 }

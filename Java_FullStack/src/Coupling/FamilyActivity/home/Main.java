@@ -1,7 +1,5 @@
-package Coupling.FamilyActivity;
+package Coupling.FamilyActivity.home;
 
-import Coupling.FamilyActivity.home.familymember;
-import Coupling.FamilyActivity.home.myhome;
 import Coupling.FamilyActivity.members.*;
 
 import java.util.List;
@@ -11,6 +9,7 @@ public class Main {
     public static void main(String[] args) {
 
         brother brotherObj = new brother();
+         sister sisterObj=new sister();
 
         List<familymember> members = List.of(
                 new mother(),
@@ -31,5 +30,11 @@ public class Main {
         brotherObj.studying();
         brotherObj.sleeping();
         brotherObj.watchingTv();
+
+        sisterObj.introduce();
+        sisterObj.studying();
+        sisterObj.sleeping();
+        sisterObj.watchingTv();
+        sisterObj.cooking();
     }
 }
