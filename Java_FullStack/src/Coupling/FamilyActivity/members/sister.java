@@ -1,30 +1,22 @@
 package Coupling.FamilyActivity.members;
 
-import Coupling.FamilyActivity.activities.cooking;
-import Coupling.FamilyActivity.activities.sleeping;
-import Coupling.FamilyActivity.activities.studying;
-import Coupling.FamilyActivity.activities.watchingTv;
+import Coupling.FamilyActivity.home.familymember;
 
-public class sister implements studying, cooking, watchingTv , sleeping {
+public class sister implements familymember {
+
     @Override
-    public void cooking() {
-        System.out.println("sister is helping Cooking");
-
+    public void introduce() {
+        System.out.println("I am Sister");
     }
 
-    @Override
-    public void watchingTv() {
-        System.out.println("sisteris Watching Tv");
+    public void cooking(){
+        System.out.println("Sister is helping in  cooking");
     }
 
-    @Override
-    public void studying() {
-        System.out.println("sister is Studying ");
-
+    public void sleeping(){
+        System.out.println("Sister is sleeping ");
     }
-
-    @Override
-    public void sleeping() {
-        System.out.println("sister is sleeping");
+    public void watchingTv(){
+        System.out.println("Sister is WatchingTv");
     }
 }

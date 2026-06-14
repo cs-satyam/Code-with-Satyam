@@ -1,25 +1,35 @@
 package Coupling.FamilyActivity;
 
+import Coupling.FamilyActivity.home.familymember;
 import Coupling.FamilyActivity.home.myhome;
 import Coupling.FamilyActivity.members.*;
+
+import java.util.List;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        myhome myhome = new myhome(
+        brother brotherObj = new brother();
+
+        List<familymember> members = List.of(
                 new mother(),
-                new brother(),
+                brotherObj,
                 new sister(),
                 new guest()
         );
 
-//        myhome.showMembers();
+        myhome home = new myhome(members);
 
-        brother brother = new brother();
+//        home.showMembers();
+//
+//        System.out.println();
 
-        brother.studying();
-        brother.sleeping();
-        brother.watchingTv();
+
+        brotherObj.introduce();
+        brotherObj.earn();
+        brotherObj.studying();
+        brotherObj.sleeping();
+        brotherObj.watchingTv();
     }
 }
