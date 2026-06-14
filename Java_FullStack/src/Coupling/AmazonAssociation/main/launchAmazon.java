@@ -32,9 +32,9 @@ public class launchAmazon {
 //        fedEx fed = new fedEx();
 //        amz.setService(fed);
 
-//         Setter injection
+//        Setter injection
 //        amz.setService(new fedEx());
-        amz.setService(new blueDart());
+          amz.setService(new blueDart());
 //        amz.setService(new firstFlight());
 
         Boolean status = amz.deliverTheProduct(452.6);
