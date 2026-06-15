@@ -12,27 +12,22 @@ implementing classes.
  =>>   if reference is not oresebt can se achived thes
 
 
-Interface - Theory Points
-Interface is a blueprint that contains method declarations and constants.
-It is used to achieve 100% abstraction (conceptually; modern Java allows default/static methods).
-An interface specifies what a class should do, not how it should do it.
-A class implements an interface using the implements keyword.
-One interface can be implemented by multiple classes.
-A class can implement multiple interfaces.
-Interfaces help achieve runtime polymorphism.
-Interfaces support loose coupling between classes.
-We cannot create an object of an interface directly.
+Interface - Important Theory Points
+An interface is used to achieve abstraction in Java.
+An interface specifies requirements that must be implemented by a class.
+All interface methods are public and abstract by default (except default, static, and private methods introduced in later Java versions).
+A class implementing an interface must override all abstract methods; otherwise, the class must be declared abstract.
+One interface can have any number of implementing classes.
+We cannot create an object (instance) of an interface.
 We can create a reference variable of an interface.
 An interface reference can refer to an object of any implementing class.
-All interface methods are implicitly public and abstract.
-All variables declared in an interface are implicitly public, static, and final.
-An interface cannot have constructors because objects of interfaces cannot be created.
+Interfaces help achieve runtime polymorphism.
+A class implements an interface using the implements keyword.
+A class can implement multiple interfaces.
 An interface can extend another interface using the extends keyword.
-A class implementing an interface must provide implementations for all abstract methods, otherwise the class must be declared abstract.
-Interfaces are widely used in Java frameworks to provide flexibility and extensibility.
-Interfaces make applications easier to maintain and modify because code depends on contracts rather than concrete implementations.
-Since Java 8, interfaces can contain default and static methods.
-Since Java 9, interfaces can contain private methods.
+All variables declared in an interface are implicitly public, static, and final.
+Interfaces support loose coupling and improve code reusability.
+Interfaces provide multiple inheritance in Java at the type level
 
 Polymorphism using Interface
 Runtime polymorphism can be achieved using interfaces.
