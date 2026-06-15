@@ -1,0 +1,41 @@
+Interface
+---------------------------------
+using the interface the polymorphism  can be achieved ???
+An interface allows runtime polymorphism because multiple classes can implement
+the same interface, and the interface reference can point to objects of different
+implementing classes.
+
+
+ =>>     one interface can be implement by mustiple class .
+
+ ==>     can we create the object of an iunterface
+ =>>   if reference is not oresebt can se achived thes
+
+
+Interface - Theory Points
+Interface is a blueprint that contains method declarations and constants.
+It is used to achieve 100% abstraction (conceptually; modern Java allows default/static methods).
+An interface specifies what a class should do, not how it should do it.
+A class implements an interface using the implements keyword.
+One interface can be implemented by multiple classes.
+A class can implement multiple interfaces.
+Interfaces help achieve runtime polymorphism.
+Interfaces support loose coupling between classes.
+We cannot create an object of an interface directly.
+We can create a reference variable of an interface.
+An interface reference can refer to an object of any implementing class.
+All interface methods are implicitly public and abstract.
+All variables declared in an interface are implicitly public, static, and final.
+An interface cannot have constructors because objects of interfaces cannot be created.
+An interface can extend another interface using the extends keyword.
+A class implementing an interface must provide implementations for all abstract methods, otherwise the class must be declared abstract.
+Interfaces are widely used in Java frameworks to provide flexibility and extensibility.
+Interfaces make applications easier to maintain and modify because code depends on contracts rather than concrete implementations.
+Since Java 8, interfaces can contain default and static methods.
+Since Java 9, interfaces can contain private methods.
+
+Polymorphism using Interface
+Runtime polymorphism can be achieved using interfaces.
+An interface reference can hold objects of different implementing classes.
+The method that gets executed is determined at runtime based on the actual object.
+This process is called dynamic method dispatch.
