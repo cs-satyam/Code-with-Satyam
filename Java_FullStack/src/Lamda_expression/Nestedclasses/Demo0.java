@@ -29,8 +29,7 @@ public class Demo0 {
       };
       a.show();
       a.display();
-
-      // anonymous object
+//          anonymous object
 //         can't re-use
       new B().show();
 
