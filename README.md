@@ -1,6 +1,5 @@
 # Code with Satyam
 
-<<<<<<< HEAD
 This repository contains Java practice code for Data Structures and Algorithms, LeetCode-style problems, core Java, OOP concepts, coupling examples, interfaces, nested classes, and lambda expressions.
 
 The workspace is organized into two main learning projects:
@@ -16,34 +15,183 @@ The workspace is organized into two main learning projects:
 - Java FullStack Java files: 46
 - IDE style: IntelliJ IDEA project folders are present
 
-## Project Structure
+## Complete Source Folder Structure
+
+### DSA Practice
 
 ```text
-Code with Satyam/
-+-- DSA Practice/
-|   +-- src/
-|   |   +-- ArrayList/
-|   |   +-- BufferReader/
-|   |   +-- CRT/
-|   |   +-- DP/
-|   |   +-- dsa1_Sorting_Algorithms/
-|   |   +-- dsa2_Arrays/
-|   |   +-- Graph/
-|   |   +-- HEAP/
-|   |   +-- LinkedList/
-|   |   +-- Queues/
-|   |   +-- Stacks/
-|   |   +-- TREE/
-|   |   +-- LEETCODE Problem.md
-|   +-- out/
-|
-+-- Java_FullStack/
-    +-- src/
-    |   +-- Coupling/
-    |   +-- Interface/
-    |   +-- Lamda_expression/
-    |   +-- OOPs/
-    +-- out/
+DSA Practice/
++-- src/
+|   +-- LEETCODE Problem.md
+|   +-- ArrayList/
+|   |   +-- arraylist.java
+|   +-- Bucket_Sort/
+|   +-- BufferReader/
+|   |   +-- ArrayInput.java
+|   |   +-- demo.java
+|   +-- CRT/
+|   |   +-- date_03_06_2026.java
+|   |   +-- largestNumber.java
+|   |   +-- LC_152.java
+|   |   +-- LC_167.java
+|   |   +-- LC_2344.java
+|   |   +-- LC_844.java
+|   |   +-- roninkarph.java
+|   |   +-- shooping.java
+|   |   +-- task.txt
+|   |   +-- ticketCost.java
+|   |   +-- date_22_05_2026/
+|   |   +-- date_23_05_2026/
+|   |   |   +-- task.txt
+|   |   +-- date_26_05_2026/
+|   |       +-- task.txt
+|   +-- DivideandConquer/
+|   +-- DP/
+|   |   +-- coinChange.java
+|   |   +-- subsetSum.java
+|   +-- dsa1_Sorting_Algorithms/
+|   |   +-- bubbleSort.java
+|   |   +-- bubbleSortSwap.java
+|   |   +-- insertionSort.java
+|   |   +-- selectionSort.java
+|   +-- dsa2_Arrays/
+|   |   +-- Easy/
+|   |   |   +-- majorityElement.java
+|   |   |   +-- MaxConsecutiveOnes.java
+|   |   |   +-- maximumSubarraySum.java
+|   |   |   +-- moveZero.java
+|   |   |   +-- removeDuplicates.java
+|   |   |   +-- Shuffle_the_Array.java
+|   |   |   +-- thirdMaxNum.java
+|   |   +-- Medium/
+|   |       +-- majorityElement_2.java
+|   |       +-- maximumSubarraySum.java
+|   |       +-- rotateArray.java
+|   +-- FastandSlow_Pointers/
+|   +-- Graph/
+|   |   +-- Adjancylistrepresentation.java
+|   |   +-- BFSGraph.java
+|   |   +-- DFSGraph.java
+|   |   +-- inputGraph.java
+|   |   +-- NumberofIslands.java
+|   |   +-- NumberofProvinces.java
+|   +-- HashTable/
+|   +-- HEAP/
+|   |   +-- heapsort.java
+|   +-- Kadane's_Algorithm/
+|   +-- LinkedList/
+|   |   +-- IntersectionOfTwoLinkedLists.java
+|   |   +-- BASIC/
+|   |       +-- addnode.java
+|   |       +-- linklistRemove.java
+|   |       +-- nodecreation.java
+|   +-- LinkedList_In-place_Reversa/
+|   +-- Monotonic_Queue/
+|   +-- Monotonic_Stack/
+|   +-- PrefixSum/
+|   +-- Queues/
+|   |   +-- customQueue.java
+|   +-- Recursion/
+|   +-- SlidingWindow_DynamicSize/
+|   +-- SlidingWindow_fixedSize/
+|   +-- Stacks/
+|   |   +-- customStack.java
+|   |   +-- InfixToPostfix.java
+|   |   +-- nextGraterElement.java
+|   |   +-- postfix_To_Infix.java
+|   |   +-- pushAtBottom.java
+|   |   +-- removeDuplicates1047.java
+|   |   +-- reverseStack.java
+|   |   +-- reverseStringUsingStack.java
+|   |   +-- stack.java
+|   |   +-- stackUisngArraylist.java
+|   |   +-- stackUsingLinkedList.java
+|   |   +-- stockSpan.java
+|   |   +-- validParentheses.java
+|   +-- String/
+|   +-- TREE/
+|   |   +-- BSTConstruct.java
+|   |   +-- countOfNode.java
+|   |   +-- heightOfTree.java
+|   |   +-- Node.java
+|   |   +-- SymmetricTree.java
+|   |   +-- treeConstruct.java
+|   +-- twoPointer/
+```
+
+### Java FullStack
+
+```text
+Java_FullStack/
++-- src/
+|   +-- Coupling/
+|   |   +-- AmazonAssociation/
+|   |   |   +-- main/
+|   |   |   |   +-- amazon.java
+|   |   |   |   +-- launchAmazon.java
+|   |   |   +-- service/
+|   |   |       +-- blueDart.java
+|   |   |       +-- fedEx.java
+|   |   |       +-- firstFlight.java
+|   |   |       +-- ideliveryService.java
+|   |   +-- FamilyActivity/
+|   |   |   +-- home/
+|   |   |   |   +-- familymember.java
+|   |   |   |   +-- Main.java
+|   |   |   |   +-- myhome.java
+|   |   |   +-- members/
+|   |   |       +-- brother.java
+|   |   |       +-- guest.java
+|   |   |       +-- mother.java
+|   |   |       +-- sister.java
+|   |   +-- TeluskoAssociation/
+|   |       +-- Main/
+|   |       |   +-- launchApplication.java
+|   |       |   +-- Telusko.java
+|   |       +-- service/
+|   |           +-- devOps.java
+|   |           +-- Icourse.java
+|   |           +-- java.java
+|   |           +-- springBoot.java
+|   +-- Interface/
+|   |   +-- launchInterface.java
+|   |   +-- notes.txt
+|   +-- Lamda_expression/
+|   |   +-- lambdaDemo.java
+|   |   +-- Functional_nterface/
+|   |   |   +-- Demo3.java
+|   |   +-- Nestedclasses/
+|   |   |   +-- Demo.java
+|   |   |   +-- Demo0.java
+|   |   |   +-- Demo2.java
+|   |   +-- Realtime/
+|   |       +-- AsyncPayment.java
+|   |       +-- PaymentDemo.java
+|   +-- OOPs/
+|       +-- launch2.java
+|       +-- Constructor/
+|       |   +-- launchConstru1.java
+|       |   +-- launchConstru2.java
+|       |   +-- launchConstru3.java
+|       +-- Encaplation/
+|       |   +-- LacunhEncap3.java
+|       |   +-- LaunchEncap.java
+|       |   +-- launchEncap2.java
+|       +-- Inheritance/
+|       |   +-- launchinheritance.java
+|       |   +-- launchInheritance10.java
+|       |   +-- launchInheritance2.java
+|       |   +-- launchInheritance3.java
+|       |   +-- launchInheritance4.java
+|       |   +-- launchInheritance5.java
+|       |   +-- launchInheritance6.java
+|       |   +-- launchInheritance7.java
+|       |   +-- launchInheritance8.java
+|       +-- Method_overloding/
+|       |   +-- launchMo.java
+|       |   +-- launchMo2.java
+|       +-- StaticKey/
+|           +-- launch.java
 ```
 
 ## DSA Practice Topics
@@ -52,90 +200,27 @@ The `DSA Practice/src` folder includes implementations and practice programs for
 
 - ArrayList basics
 - BufferedReader input handling
-- Sorting algorithms
-  - Bubble sort
-  - Optimized bubble sort
-  - Selection sort
-  - Insertion sort
-- Arrays
-  - Easy array problems
-  - Medium array problems
-  - Majority element
-  - Maximum subarray sum
-  - Move zeroes
-  - Remove duplicates
-  - Rotate array
-  - Shuffle array
-  - Third maximum number
-- Dynamic programming
-  - Coin change
-  - Subset sum
-- Graphs
-  - Adjacency list representation
-  - BFS
-  - DFS
-  - Number of islands
-  - Number of provinces
-- Heap
-  - Heap sort
-- Linked lists
-  - Node creation
-  - Add node
-  - Remove node
-  - Intersection of two linked lists
-- Queues
-  - Custom queue
-- Stacks
-  - Custom stack
-  - Stack using ArrayList
-  - Stack using linked list
-  - Infix to postfix
-  - Postfix to infix
-  - Push at bottom
-  - Reverse stack
-  - Reverse string using stack
-  - Stock span
-  - Valid parentheses
-  - Next greater element
-  - Remove duplicate characters problem
-- Trees
-  - Binary tree construction
-  - Binary search tree construction
-  - Count nodes
-  - Height of tree
-  - Symmetric tree
+- Sorting algorithms: bubble sort, optimized bubble sort, selection sort, insertion sort
+- Array problems: majority element, maximum subarray sum, move zeroes, remove duplicates, rotate array, shuffle array, third maximum number
+- Dynamic programming: coin change and subset sum
+- Graphs: adjacency list, BFS, DFS, number of islands, number of provinces
+- Heap sort
+- Linked lists: node creation, add node, remove node, intersection of two linked lists
+- Queues and stacks
+- Trees and binary search trees
 - LeetCode and CRT practice problems
-  - LC 152
-  - LC 167
-  - LC 844
-  - LC 2344
-  - Largest number
-  - Ticket cost
-  - Shopping problem
-  - Rabin-Karp style string matching practice
-
-Some additional topic folders are also present for future or ongoing practice, such as bucket sort, divide and conquer, fast and slow pointers, hash table, Kadane's algorithm, linked list in-place reversal, monotonic queue, monotonic stack, prefix sum, recursion, sliding window, string, and two pointer.
 
 ## Java FullStack Topics
 
 The `Java_FullStack/src` folder includes Java learning examples for:
 
-- OOP concepts
-  - Classes and objects
-  - Constructors
-  - Encapsulation
-  - Inheritance
-  - Method overloading
-  - Static keyword
+- OOP concepts: constructors, encapsulation, inheritance, method overloading, and static keyword
 - Interfaces
 - Lambda expressions
-  - Functional interface examples
-  - Nested classes
-  - Real-time async payment example
+- Functional interfaces
+- Nested classes
+- Real-time async payment example
 - Coupling and association examples
-  - Amazon delivery service association
-  - Family activity association
-  - Telusko course/service association
 
 ## How to Run
 
@@ -173,97 +258,9 @@ Note: Package names and class names must match the Java file structure. If a fil
 
 - The `out/` folders contain compiled class files generated by the IDE.
 - Source code is kept inside each project's `src/` folder.
+- Empty topic folders are included in the structure because they are present in the workspace and may be used for future practice.
 - This repository is mainly for Java learning, DSA revision, and problem-solving practice.
 
 ## Author
 
 Satyam
-=======
-A collection of Java projects, examples, and tutorials created and maintained by Satyam. This repository contains self-contained Java exercises, sample applications, and learning resources intended to help developers practice and improve their Java skills.
-
-## Contents
-
-- Small projects and code examples demonstrating Java features
-- Tutorials and step-by-step exercises
-- Utility scripts and helper classes
-- Tests and sample inputs where applicable
-
-## Language
-
-This repository is implemented in Java.
-
-## Getting started
-
-Prerequisites
-- Java Development Kit (JDK) 8 or later. For new projects it's recommended to use a modern LTS release (e.g., Java 17 or newer).
-- Optional: Maven or Gradle if the project uses a build tool.
-
-Cloning the repository
-
-    git clone https://github.com/cs-satyam/Code-with-Satyam.git
-    cd Code-with-Satyam
-
-Building and running
-
-If a specific project in this repository uses Maven:
-
-    # build
-    mvn clean package
-
-    # run (example, replace with actual artifact name)
-    java -jar target/your-artifact-name.jar
-
-If a project uses Gradle (wrapper available):
-
-    ./gradlew build
-    ./gradlew run
-
-For simple single-file or small projects without a build tool:
-
-    # compile
-    javac -d out src/path/to/YourClass.java
-
-    # run
-    java -cp out path.to.YourClass
-
-Running tests
-
-- Maven: mvn test
-- Gradle: ./gradlew test
-
-## Project structure (example)
-
-Each subdirectory may represent a separate Java example or project. A common layout:
-
-    project-name/
-      ├─ src/main/java/...   # source files
-      ├─ src/test/java/...   # tests
-      ├─ pom.xml or build.gradle
-      └─ README.md (project-specific)
-
-## Contributing
-
-Contributions are welcome! Suggested workflow:
-
-1. Fork the repository
-2. Create a branch for your feature or fix: git checkout -b feature/name
-3. Make changes with clear, focused commits
-4. Run tests locally
-5. Open a pull request describing your changes
-
-Please follow standard Java conventions and include tests where appropriate.
-
-## Code style
-
-- Follow idiomatic Java practices
-- Use meaningful names and keep methods small and focused
-- Prefer immutability where reasonable and document any non-obvious design decisions
-
-## License
-
-If a LICENSE file exists in the repository, that license applies. If no license is present, please contact the repository owner for permission before using the code in production.
-
-## Contact
-
-Maintained by Satyam (<https://github.com/cs-satyam>). Feel free to open issues or pull requests for questions, suggestions, and contributions.
->>>>>>> 0f5590baac69d673183f082b21e7bcf1d60cc508
