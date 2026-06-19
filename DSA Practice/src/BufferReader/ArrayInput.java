@@ -12,9 +12,7 @@ public class ArrayInput {
         System.out.println("Array Input Without Size:");
 
         String[] input = br.readLine().split(" ");
-
         int[] arr = new int[input.length];
-
         for (int i = 0; i < input.length; i++) {
             arr[i] = Integer.parseInt(input[i]);
         }
