@@ -39,6 +39,7 @@ public class ArrayInput {
             a[i] = Integer.parseInt(nums[i]);
         }
 
+
         System.out.print("Output: ");
         for (int x : a) {
             System.out.print(x + " ");
