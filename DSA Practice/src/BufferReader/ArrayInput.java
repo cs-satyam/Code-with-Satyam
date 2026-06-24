@@ -8,7 +8,7 @@ public class ArrayInput {
         BufferedReader br = new BufferedReader(
                 new InputStreamReader(System.in));
 
-        // Array input without size
+//         Array input without size
         System.out.println("Array Input Without Size:");
 
         String[] input = br.readLine().split(" ");
@@ -26,7 +26,6 @@ public class ArrayInput {
 
         // Array input with size
         System.out.println("Array Input With Size:");
-
         int n = Integer.parseInt(br.readLine());
 
         int[] a = new int[n];
