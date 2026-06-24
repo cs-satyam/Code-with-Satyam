@@ -19,6 +19,7 @@ public class strignMapInput {
             String[] parts = br.readLine().split(" ");
 
 
+
             if (parts[0].equals("put")) {
                 int key = Integer.parseInt(parts[1]);
                 int value = Integer.parseInt(parts[2]);
