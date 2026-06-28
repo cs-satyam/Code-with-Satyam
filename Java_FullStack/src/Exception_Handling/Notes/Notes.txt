@@ -1,4 +1,4 @@
 Exception handling
 
-exception - Something  who doesn't follow rule
+exception -  Something  who doesn't follow rule
 
