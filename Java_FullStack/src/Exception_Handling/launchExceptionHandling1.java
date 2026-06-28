@@ -6,6 +6,7 @@ public class launchExceptionHandling1 {
     public  static void main(String args[]){
         System.out.println("Connection -Eastablish");
 
+
         try {
             Scanner sc = new Scanner(System.in);
             System.out.println("kindly enter the Numerator for devision");
