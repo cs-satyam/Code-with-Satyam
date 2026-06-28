@@ -20,8 +20,11 @@ public class launchExceptionHandling1 {
 
         }
         catch(Exception e){
+            System.out.println("********************************************");
             System.out.println("Please enter a non zero Denominator  value");
             System.out.println(e.getMessage());
+            System.out.println(e.fillInStackTrace());
+
         }
         System.out.println("Connection terminated");
 
