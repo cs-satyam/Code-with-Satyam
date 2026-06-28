@@ -1,0 +1,7 @@
+void disp(){
+s.o.p(hello)
+}
+
+()->{ s.o.p(hello) };
+
+it is tightly bind with function
