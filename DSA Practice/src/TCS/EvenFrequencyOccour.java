@@ -19,7 +19,6 @@ public class EvenFrequencyOccour {
                    c=1;
                }
            }
-
         if (c % 2 == 0) {
             ans += c;
         }
