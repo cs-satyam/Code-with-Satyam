@@ -2,7 +2,7 @@ package Exception_Handling;
 
 import java.util.Scanner;
 
-public class launchExceptionHandling1 {
+public class launchEH1 {
     public  static void main(String args[]){
         System.out.println("Connection -Eastablish");
 

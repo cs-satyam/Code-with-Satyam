@@ -24,6 +24,10 @@ class beta extends Alpha{
         this.x=x;
         this.y=y;
         System.out.println("beta param constructor");
+    } public beta(int x,int y,int a){
+        this.x=x;
+        this.y=y;
+        System.out.println("beta param constructor  gop ");
     }
 
  public void disp(){
@@ -39,10 +43,10 @@ public class launchInheritance6 {
 
 
 
-    beta b = new beta();
+    beta b = new beta(4,5);
     b.disp();
-    beta b1 = new beta(4,44);
-    b1.disp();
+//    beta b1 = new beta(4,44);
+//    b1.disp();
 
 }
 }

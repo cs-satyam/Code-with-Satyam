@@ -2,8 +2,6 @@ package OOPs.Method_overloding;
 // Method overloding
 
 
-
-
 class AdditionCal {
 
     int add(int n1, int n2) {
@@ -35,7 +33,6 @@ class AdditionCal {
         return n1+n2;
     }
 }
-
 public class launchMo {
 
     public static void main(String[] args) {
