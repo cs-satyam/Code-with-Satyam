@@ -2,9 +2,12 @@ package Exception_Handling;
 
 import java.util.Scanner;
 
+
+
 public class launchEH2 {
     public static void main(String[] args) {
         System.out.println("Connection -Eastablish");
+        try {
 
 
             Scanner sc = new Scanner(System.in);
@@ -20,20 +23,31 @@ public class launchEH2 {
             System.out.println("Enter the size of array");
             int size = sc.nextInt();
 
-            int arr[]=new int[size];
+            int arr[] = new int[size];
 
             System.out.println("enter the element");
-            int ele=sc.nextInt();
+            int ele = sc.nextInt();
 
             System.out.println("Enter the pos at which element to be inserted");
             int pos = sc.nextInt();
 
-            arr[pos]=ele;
-            System.out.println("data is inserted at pos "+pos+" "+arr[pos]);
-
-
+            arr[pos] = ele;
+            System.out.println("data is inserted at pos " + pos + " " + arr[pos]);
 
             System.out.println("entered element inserted in the array");
-            System.out.println("Connection terminated");
+            }catch(ArithmeticException e) {
+                System.out.println("please enter non zero number");
+            }
+
+            catch (NegativeArraySizeException e){
+                System.out.println("Don't be negative number");
+            }
+            catch (ArrayIndexOutOfBoundsException e){
+                System.out.println("Array out of bounds");
+            }
+            catch (Exception e){
+                System.out.println("Something went wrong");
+            }
+                System.out.println("Connection terminated");
     }
 }
