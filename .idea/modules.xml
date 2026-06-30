@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Code with Satyam.iml" filepath="$PROJECT_DIR$/.idea/Code with Satyam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA Practice/DSA Practice.iml" filepath="$PROJECT_DIR$/DSA Practice/DSA Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Daily Challanges/Daily Challanges.iml" filepath="$PROJECT_DIR$/Daily Challanges/Daily Challanges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_FullStack/Java_FullStack.iml" filepath="$PROJECT_DIR$/Java_FullStack/Java_FullStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode practice/LeetCode practice.iml" filepath="$PROJECT_DIR$/LeetCode practice/LeetCode practice.iml" />
+    </modules>
+  </component>
+</project>
