@@ -17,6 +17,23 @@ public class launchEH2 {
             int res = n / d;
             System.out.println("Result " + res);
 
+            System.out.println("Enter the size of array");
+            int size = sc.nextInt();
+
+            int arr[]=new int[size];
+
+            System.out.println("enter the element");
+            int ele=sc.nextInt();
+
+            System.out.println("Enter the pos at which element to be inserted");
+            int pos = sc.nextInt();
+
+            arr[pos]=ele;
+            System.out.println("data is inserted at pos "+pos+" "+arr[pos]);
+
+
+
+            System.out.println("entered element inserted in the array");
             System.out.println("Connection terminated");
     }
 }
