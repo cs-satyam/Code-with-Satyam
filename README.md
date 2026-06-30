@@ -275,6 +275,7 @@ Satyam
 ## String
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Depth-First Search
 |  |
@@ -288,4 +289,12 @@ Satyam
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0733-flood-fill) |
+## Hash Table
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
