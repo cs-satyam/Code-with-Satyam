@@ -17,29 +17,28 @@ class Node {
     }
 }
 */
-
 class Solution {
     public Node cloneGraph(Node node) {
         if (node == null)
             return null;
-        Node copy = new Node(node.val);
-        Node[] v = new Node[101];
-        Arrays.fill(v, null);
-        dfs(node, copy, v);
-        return copy;
+
+        HashMap<Node, Node> map = new HashMap<>();
+        return dfs(node, map);
     }
 
-    void dfs(Node currNode, Node copy, Node[] v) {
-        v[copy.val] = copy;
-        for (Node n : currNode.neighbors) {
-            if (v[n.val] == null) {
-                Node newNode = new Node(n.val);
-                copy.neighbors.add(newNode);
-                dfs(n, newNode, v);
+    private Node dfs(Node node, HashMap<Node, Node> map) {
+
+        Node newNode = new Node(node.val);
+        map.put(node, newNode);
+
+        for (Node neighbor : node.neighbors) {
+            if (!map.containsKey(neighbor)) {
+                newNode.neighbors.add(dfs(neighbor, map));
             } else {
-                copy.neighbors.add(v[n.val]);
+                newNode.neighbors.add(map.get(neighbor));
             }
         }
 
+        return newNode;
     }
 }
