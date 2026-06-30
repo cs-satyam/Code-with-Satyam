@@ -1,29 +1,36 @@
 class Solution {
     public int numOfMinutes(int n, int headID, int[] manager, int[] informTime) {
-        List<List<Integer>> adj = new ArrayList<>();
+        List<Integer>[] adj = new ArrayList[n];
+
         for (int i = 0; i < n; i++) {
-            adj.add(new ArrayList<>());
+            adj[i] = new ArrayList<>();
+
         }
+
         for (int i = 0; i < n; i++) {
+
             if (manager[i] != -1) {
-                adj.get(manager[i]).add(i);
+
+                adj[manager[i]].add(i);
+
             }
+
         }
-        System.out.println(adj);
-        return dfs(headID, 0, adj, informTime);
+
+        return dfs(headID, adj, informTime);
+
     }
 
-    int dfs(int headID, int currTime, List<List<Integer>> adj, int[] informTime) {
-                if(adj.get(headID).isEmpty()){
-                    return currTime;
-                }
+    private int dfs(int node, List<Integer>[] adj, int[] informTime) {
 
-                int maxTime=0;
-                int newTime = currTime + informTime[headID] ;
+        int maxTime = 0;
 
-                for(int e:adj.get(headID)){
-                        maxTime= Math.max(maxTime,dfs(e, newTime, adj, informTime));
-                }
-                return maxTime;
+        for (int child : adj[node]) {
+
+            maxTime = Math.max(maxTime, dfs(child, adj, informTime));
+
+        }
+
+        return informTime[node] + maxTime;
     }
 }
