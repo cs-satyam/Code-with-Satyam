@@ -1,4 +1,6 @@
-class Solution {
+
+
+ class Q_07733 {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
 
         int oldColor=image[sr][sc];

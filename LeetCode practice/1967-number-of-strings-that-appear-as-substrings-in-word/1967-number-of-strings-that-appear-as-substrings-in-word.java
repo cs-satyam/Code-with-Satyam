@@ -1,4 +1,4 @@
-class Solution {
+ class Q_1967 {
     public int numOfStrings(String[] patterns, String word) {
 
       int c=0;
