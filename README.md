@@ -272,6 +272,7 @@ Satyam
 | ------- |
 | [0733-flood-fill](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0733-flood-fill) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -293,10 +294,12 @@ Satyam
 | [0797-all-paths-from-source-to-target](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0841-keys-and-rooms) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1376-time-needed-to-inform-all-employees) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0733-flood-fill) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -320,4 +323,16 @@ Satyam
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0797-all-paths-from-source-to-target) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
