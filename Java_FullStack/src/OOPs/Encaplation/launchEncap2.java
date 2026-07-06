@@ -10,8 +10,8 @@ class Employee
      void setId(int i) {
         id = i;
     }
-     void setName(String n) {
-        name = n;
+     void setName(String name) {
+        name = name;
     }
     void setSalary(double s) {
         salary = s;
