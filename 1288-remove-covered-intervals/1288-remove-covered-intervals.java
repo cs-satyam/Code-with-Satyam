@@ -4,8 +4,10 @@ class Solution {
             a[0] == b[0] ? b[1] - a[1] : a[0] - b[0]
         );
 
+
         int count = 0;
         int maxEnd = 0;
+
 
         for (int[] interval : intervals) {
             if (interval[1] > maxEnd) {
@@ -16,4 +18,5 @@ class Solution {
 
         return count;
     }
+
 }
