@@ -279,6 +279,7 @@ Satyam
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -344,4 +345,12 @@ Satyam
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1288-remove-covered-intervals) |
+## Math
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
