@@ -1,0 +1,36 @@
+import java.util.*;
+
+class Solution {
+    public boolean isBipartite(int[][] graph) {
+
+        int[] col = new int[graph.length];
+        Arrays.fill(col, -1);
+
+        Queue<Integer> q = new LinkedList<>();
+
+        for (int i = 0; i < graph.length; i++) {
+
+            if (col[i] == -1) {
+                col[i] = 0;
+                q.offer(i);
+
+                while (!q.isEmpty()) {
+                    int curr = q.poll();
+
+                    for (int j = 0; j < graph[curr].length; j++) {
+                        int neigh = graph[curr][j];
+
+                        if (col[neigh] == -1) {
+                            col[neigh] = 1 - col[curr];
+                            q.offer(neigh);
+                        } else if (col[neigh] == col[curr]) {
+                            return false;
+                        }
+                    }
+                }
+            }
+        }
+
+        return true;
+    }
+}
