@@ -274,6 +274,7 @@ Satyam
 | [1288-remove-covered-intervals](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -309,6 +310,7 @@ Satyam
 | ------- |
 | [0133-clone-graph](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0133-clone-graph) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -320,6 +322,7 @@ Satyam
 | [0785-is-graph-bipartite](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0841-keys-and-rooms) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Tree
 |  |
 | ------- |
@@ -332,11 +335,13 @@ Satyam
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0785-is-graph-bipartite) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
