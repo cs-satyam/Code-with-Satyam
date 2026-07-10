@@ -1,5 +1,7 @@
 package BinarySearch;
 
+// https://leetcode.com/problems/sqrtx/description/
+
 public class Sqrt_X_ {
     public static void main(String[] args) {
         int n=4;
