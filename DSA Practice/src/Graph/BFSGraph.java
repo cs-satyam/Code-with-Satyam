@@ -64,9 +64,8 @@ public class BFSGraph {
         graph[2].add(new Edge(2, 4, 4));
         graph[4].add(new Edge(4, 2, 4));
 
-//        bfs(graph, V);
-        cycleDetection c = new cycleDetection();
-        System.out.println(c.detectCycle(graph));
+        bfs(graph, V);
+
 
     }
 
