@@ -285,6 +285,7 @@ Satyam
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0733-flood-fill) |
@@ -296,6 +297,7 @@ Satyam
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0733-flood-fill) |
@@ -331,6 +333,7 @@ Satyam
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0226-invert-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Backtracking
@@ -369,5 +372,6 @@ Satyam
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
