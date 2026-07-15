@@ -1,8 +1,6 @@
 package DP.Knapsack0_1;
 
-import java.util.Arrays;
-
-public class targetSubsetSum {
+public class targetSum {
 
     public static void main(String[] args) {
 
