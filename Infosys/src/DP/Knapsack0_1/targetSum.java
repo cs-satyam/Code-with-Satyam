@@ -1,51 +1,42 @@
 package DP.Knapsack0_1;
 
+import java.sql.SQLOutput;
+import java.util.*;
 public class targetSum {
-
     public static void main(String[] args) {
 
-        int[] a = {0, 8, 5, 2, 4};
-        int target = 9;
+        int nums[] = {1,1,1,1,1};
+        int target = 3;
+        int sum = 0;
+        for (int x : nums)
+            sum += x;
 
-        boolean ans = subsetSum(a, target);
+        // Impossible cases
+        if (Math.abs(target) > sum)
+            System.out.println(0);
 
-        System.out.println("Subset Exists: " + ans);
+        if ((sum + target) % 2 != 0)
+            System.out.println(0);
+
+        int subsetSum = (sum + target) / 2;
+
+        int[][] dp = new int[nums.length][subsetSum + 1];
+
+        for (int[] row : dp)
+            Arrays.fill(row, -1);
+
+        int r= countWays(0,nums, subsetSum, dp);
+        System.out.println(r);
     }
-
-    static boolean subsetSum(int[] a, int target) {
-
-        int n = a.length;
-
-        // dp[i][j] = true if sum j can be formed using first i elements
-        boolean[][] dp = new boolean[n + 1][target + 1];
-
-        // Base Case: Sum 0 is always possible
-        for (int i = 0; i <= n; i++) {
-            dp[i][0] = true;
+    static int countWays(int i, int nums[],int target,int dp[][]){
+        if(i == nums.length){
+            return target==0?1:0;
         }
-
-        // Fill the DP table
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= target; j++) {
-
-                // Exclude current element
-                dp[i][j] = dp[i - 1][j];
-
-                // Include current element if possible
-                if (j >= a[i - 1]) {
-                    dp[i][j] = dp[i][j] || dp[i - 1][j - a[i - 1]];
-                }
-            }
+        int notTake=countWays(i+1,nums,target,dp);
+        int take=0;
+        if(nums[i]<=target){
+            take =countWays(i+1,nums,target-nums[i],dp);
         }
-
-//        // Print DP Table
-//        System.out.println("DP Table:");
-//
-//        for (boolean[] row : dp) {
-//            System.out.println(Arrays.toString(row));
-//        }
-
-
-        return dp[n][target];
+        return dp[i][target]= take+notTake;
     }
 }
