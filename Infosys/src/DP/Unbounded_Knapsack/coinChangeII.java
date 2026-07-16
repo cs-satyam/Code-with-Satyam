@@ -1,4 +1,4 @@
-package DP.Knapsack0_1;
+package DP.Unbounded_Knapsack;
 
 import java.util.Arrays;
 
