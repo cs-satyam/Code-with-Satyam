@@ -1,6 +1,5 @@
 package DP.Knapsack0_1;
 
-import java.sql.SQLOutput;
 import java.util.*;
 public class targetSum {
     public static void main(String[] args) {

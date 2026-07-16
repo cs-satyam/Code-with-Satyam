@@ -27,7 +27,7 @@ public class coinChange {
         if (dp[n][t] != -1)
             return dp[n][t];
 
-        int notTake = minimumWay(n - 1, t, a, dp);
+        int notTake =0+ minimumWay(n - 1, t, a, dp);
 
         int take = INF;
         if (a[n] <= t) {
