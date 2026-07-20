@@ -287,6 +287,7 @@ Satyam
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0044-wildcard-matching) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -401,6 +402,7 @@ Satyam
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0322-coin-change) |
@@ -410,6 +412,7 @@ Satyam
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0044-wildcard-matching) |
 | [0410-split-array-largest-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0410-split-array-largest-sum) |
 ## Memoization
 |  |
@@ -419,4 +422,8 @@ Satyam
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0090-subsets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
