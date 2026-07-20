@@ -295,6 +295,7 @@ Satyam
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0543-diameter-of-binary-tree) |
@@ -345,6 +346,7 @@ Satyam
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0543-diameter-of-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -393,12 +395,14 @@ Satyam
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0543-diameter-of-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0416-partition-equal-subset-sum) |
