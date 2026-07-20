@@ -287,6 +287,7 @@ Satyam
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0072-edit-distance) |
@@ -405,6 +406,7 @@ Satyam
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0070-climbing-stairs) |
@@ -433,4 +435,8 @@ Satyam
 | ------- |
 | [0010-regular-expression-matching](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0044-wildcard-matching) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
