@@ -287,6 +287,7 @@ Satyam
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0044-wildcard-matching) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -402,6 +403,7 @@ Satyam
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -425,5 +427,6 @@ Satyam
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
