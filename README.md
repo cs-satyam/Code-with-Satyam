@@ -325,6 +325,7 @@ Satyam
 | [0785-is-graph-bipartite](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0841-keys-and-rooms) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
@@ -361,6 +362,7 @@ Satyam
 | [0226-invert-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0543-diameter-of-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Backtracking
 |  |
@@ -412,6 +414,7 @@ Satyam
 | [0124-binary-tree-maximum-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0543-diameter-of-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
