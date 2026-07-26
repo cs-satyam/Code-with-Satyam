@@ -404,6 +404,7 @@ Satyam
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0070-climbing-stairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
