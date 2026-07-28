@@ -279,6 +279,7 @@ Satyam
 | [0322-coin-change](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0518-coin-change-ii) |
 | [0733-flood-fill](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0994-rotting-oranges) |
@@ -375,6 +376,7 @@ Satyam
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Search
 |  |
@@ -436,6 +438,7 @@ Satyam
 | [0322-coin-change](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0583-delete-operation-for-two-strings) |
