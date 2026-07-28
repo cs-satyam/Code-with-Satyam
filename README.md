@@ -274,12 +274,17 @@ Satyam
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0090-subsets-ii) |
+| [0130-surrounded-regions](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0322-coin-change](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0518-coin-change-ii) |
 | [0733-flood-fill](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0733-flood-fill) |
+| [0875-koko-eating-bananas](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1288-remove-covered-intervals](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -302,6 +307,7 @@ Satyam
 | [0104-maximum-depth-of-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0543-diameter-of-binary-tree) |
@@ -317,6 +323,7 @@ Satyam
 | [0104-maximum-depth-of-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0322-coin-change) |
@@ -326,12 +333,15 @@ Satyam
 | [0797-all-paths-from-source-to-target](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0994-rotting-oranges) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -368,6 +378,7 @@ Satyam
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Search
 |  |
@@ -377,11 +388,14 @@ Satyam
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0410-split-array-largest-sum) |
+| [0875-koko-eating-bananas](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0785-is-graph-bipartite) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -396,6 +410,7 @@ Satyam
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0070-climbing-stairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -427,6 +442,7 @@ Satyam
 | [0322-coin-change](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0583-delete-operation-for-two-strings) |
