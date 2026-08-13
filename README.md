@@ -276,6 +276,7 @@ Satyam
 | [0090-subsets-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0416-partition-equal-subset-sum) |
@@ -441,6 +442,7 @@ Satyam
 | [0070-climbing-stairs](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0416-partition-equal-subset-sum) |
