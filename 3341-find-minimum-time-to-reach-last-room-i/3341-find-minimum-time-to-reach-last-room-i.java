@@ -1,6 +1,10 @@
 import java.util.*;
 
 class Solution {
+  static int[][] directions = {{-1, 0},
+                                {1, 0},
+                                {0, -1},
+                                {0, 1}};
     public int minTimeToReach(int[][] moveTime) {
         int m = moveTime.length;
         int n = moveTime[0].length;
@@ -13,20 +17,12 @@ class Solution {
         }
 
         // {time, row, col}
-        PriorityQueue<int[]> pq = new PriorityQueue<>(
-            Comparator.comparingInt(a -> a[0])
-        );
+PriorityQueue<int[]> pq = new PriorityQueue<>( Comparator.comparingInt(a -> a[0]) );
 
         dist[0][0] = 0;
         pq.offer(new int[]{0, 0, 0});
 
-        int[][] directions = {
-            {-1, 0},
-            {1, 0},
-            {0, -1},
-            {0, 1}
-        };
-
+      
         while (!pq.isEmpty()) {
             int[] curr = pq.poll();
 
