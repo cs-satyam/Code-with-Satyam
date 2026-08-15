@@ -288,6 +288,7 @@ Satyam
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1288-remove-covered-intervals) |
+| [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -319,6 +320,7 @@ Satyam
 | [0797-all-paths-from-source-to-target](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0841-keys-and-rooms) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -338,6 +340,7 @@ Satyam
 | [0958-check-completeness-of-a-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0994-rotting-oranges) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -345,6 +348,7 @@ Satyam
 | [0130-surrounded-regions](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Hash Table
@@ -396,6 +400,7 @@ Satyam
 | [0875-koko-eating-bananas](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
@@ -403,11 +408,13 @@ Satyam
 | ------- |
 | [0130-surrounded-regions](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Sorting
@@ -480,4 +487,8 @@ Satyam
 |  |
 | ------- |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
