@@ -284,6 +284,7 @@ Satyam
 | [0518-coin-change-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0518-coin-change-ii) |
 | [0733-flood-fill](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0875-koko-eating-bananas) |
+| [0956-tallest-billboard](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0956-tallest-billboard) |
 | [0994-rotting-oranges](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -461,6 +462,7 @@ Satyam
 | [0516-longest-palindromic-subsequence](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0583-delete-operation-for-two-strings) |
+| [0956-tallest-billboard](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0956-tallest-billboard) |
 ## Greedy
 |  |
 | ------- |
@@ -491,4 +493,16 @@ Satyam
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
+## Meet in the Middle
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0956-tallest-billboard) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0956-tallest-billboard) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0956-tallest-billboard) |
 <!---LeetCode Topics End-->
