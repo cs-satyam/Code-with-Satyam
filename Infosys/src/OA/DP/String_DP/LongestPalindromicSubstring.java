@@ -1,4 +1,4 @@
-package DP.String_DP;
+package OA.DP.String_DP;
 
 public class LongestPalindromicSubstring {
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class LongestPalindromicSubstring {
         int maxRow = 0;
         int maxCol = 0;
 
-        // Step 1: Build the DP Matrix and capture the peak cell coordinates
+        // Step 1: Build the OA.DP Matrix and capture the peak cell coordinates
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= m; j++) {
                 if (s.charAt(i - 1) == t.charAt(j - 1)) {

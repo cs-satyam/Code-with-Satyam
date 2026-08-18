@@ -1,4 +1,4 @@
-package BinarySearch;
+package OA.BinarySearch;
 
 public class Find_Minimum_in_Rotated_Sorted_Array {
     public static void main(String[] args) {

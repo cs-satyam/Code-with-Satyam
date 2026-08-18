@@ -1,4 +1,4 @@
-package DP.String_DP;
+package OA.DP.String_DP;
 
 public class LongestPallandromicSubsequesnce {
     public static void main(String[] args) {

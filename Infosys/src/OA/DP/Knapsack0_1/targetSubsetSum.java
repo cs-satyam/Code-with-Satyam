@@ -1,4 +1,4 @@
-package DP.Knapsack0_1;
+package OA.DP.Knapsack0_1;
 
 public class targetSubsetSum {
 
@@ -24,7 +24,7 @@ public class targetSubsetSum {
             dp[i][0] = true;
         }
 
-        // Fill the DP table
+        // Fill the OA.DP table
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= target; j++) {
 
@@ -38,8 +38,8 @@ public class targetSubsetSum {
             }
         }
 
-//        // Print DP Table
-//        System.out.println("DP Table:");
+//        // Print OA.DP Table
+//        System.out.println("OA.DP Table:");
 //
 //        for (boolean[] row : dp) {
 //            System.out.println(Arrays.toString(row));

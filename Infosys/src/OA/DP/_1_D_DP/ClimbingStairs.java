@@ -1,4 +1,4 @@
-package DP._1_D_DP;
+package OA.DP._1_D_DP;
 
 public class ClimbingStairs {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Practice;
+package OA.Practice;
 
 //the smart city authority has installed charging station along a highway
 //Each charging station has a charging capicity measured kilometer

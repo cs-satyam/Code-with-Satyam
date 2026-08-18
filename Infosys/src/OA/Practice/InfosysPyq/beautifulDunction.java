@@ -1,4 +1,4 @@
-package Practice.InfosysPyq;
+package OA.Practice.InfosysPyq;
 
 public class beautifulDunction {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package BinarySearch;
+package OA.BinarySearch;
 
 public class Allocate_Minimum_Pages {
     public static void main(String[] args) {

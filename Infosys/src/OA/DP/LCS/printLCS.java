@@ -1,4 +1,4 @@
-package DP.LCS;
+package OA.DP.LCS;
 
 public class printLCS {
     public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class printLCS {
         int n = s1.length();
         int m = s2.length();
 
-        // Step 1: Build the DP Table
+        // Step 1: Build the OA.DP Table
         int[][] dp = new int[n + 1][m + 1];
 
         for (int i = 1; i <= n; i++) {

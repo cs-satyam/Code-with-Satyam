@@ -1,4 +1,4 @@
-package Practice.InfosysPyq;
+package OA.Practice.InfosysPyq;
 
 import java.util.Arrays;
 import java.util.Scanner;

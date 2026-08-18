@@ -1,4 +1,4 @@
-package Practice;
+package OA.Practice;
 import java.util.*;
 
 public class TrappingRainWater

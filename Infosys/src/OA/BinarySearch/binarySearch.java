@@ -1,4 +1,4 @@
-package BinarySearch;
+package OA.BinarySearch;
 
 // https://leetcode.com/problems/binary-search/
 

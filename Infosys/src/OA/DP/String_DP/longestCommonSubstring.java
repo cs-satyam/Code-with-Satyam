@@ -1,5 +1,5 @@
-package DP.String_DP;
-import java.util.*;
+package OA.DP.String_DP;
+
 public class longestCommonSubstring {
     public static void main(String[] args) {
         String s="abcd";

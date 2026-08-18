@@ -1,4 +1,4 @@
-package BinarySearch;
+package OA.BinarySearch;
 
 public class Search_in_Rotated_Sorted_Array_II {
     public static void main(String[] args) {

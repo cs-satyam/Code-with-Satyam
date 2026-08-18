@@ -1,4 +1,4 @@
-package DP.LCS;
+package OA.DP.LCS;
 
 public class lcs_tab {
     public static void main(String[] args) {

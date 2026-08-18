@@ -1,4 +1,4 @@
-package DP.LCS;
+package OA.DP.LCS;
 
 import java.util.Arrays;
 
