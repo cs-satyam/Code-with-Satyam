@@ -287,6 +287,7 @@ Satyam
 | [0956-tallest-billboard](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0956-tallest-billboard) |
 | [0994-rotting-oranges](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1048-longest-string-chain](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1048-longest-string-chain) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1288-remove-covered-intervals) |
 | [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
@@ -303,6 +304,7 @@ Satyam
 | [0072-edit-distance](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0583-delete-operation-for-two-strings) |
+| [1048-longest-string-chain](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -356,6 +358,7 @@ Satyam
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0133-clone-graph) |
+| [1048-longest-string-chain](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
@@ -421,6 +424,7 @@ Satyam
 ## Sorting
 |  |
 | ------- |
+| [1048-longest-string-chain](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1288-remove-covered-intervals) |
 ## Math
 |  |
@@ -463,6 +467,7 @@ Satyam
 | [0518-coin-change-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0583-delete-operation-for-two-strings) |
 | [0956-tallest-billboard](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0956-tallest-billboard) |
+| [1048-longest-string-chain](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1048-longest-string-chain) |
 ## Greedy
 |  |
 | ------- |
@@ -485,6 +490,7 @@ Satyam
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0005-longest-palindromic-substring) |
+| [1048-longest-string-chain](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1048-longest-string-chain) |
 ## Shortest Path
 |  |
 | ------- |
