@@ -325,6 +325,7 @@ Satyam
 | [0841-keys-and-rooms](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0841-keys-and-rooms) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
+| [3123-find-edges-in-shortest-paths](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3123-find-edges-in-shortest-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -346,6 +347,7 @@ Satyam
 | [1376-time-needed-to-inform-all-employees](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3123-find-edges-in-shortest-paths](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3123-find-edges-in-shortest-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -373,6 +375,7 @@ Satyam
 | [0785-is-graph-bipartite](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0841-keys-and-rooms) |
+| [3123-find-edges-in-shortest-paths](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3123-find-edges-in-shortest-paths) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Tree
@@ -422,6 +425,7 @@ Satyam
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3123-find-edges-in-shortest-paths](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3123-find-edges-in-shortest-paths) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Sorting
 |  |
@@ -497,6 +501,7 @@ Satyam
 ## Shortest Path
 |  |
 | ------- |
+| [3123-find-edges-in-shortest-paths](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3123-find-edges-in-shortest-paths) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Dijkstra's Algorithm
 |  |
