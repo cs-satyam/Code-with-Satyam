@@ -276,6 +276,8 @@ Satyam
 | [0090-subsets-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0416-partition-equal-subset-sum) |
@@ -283,11 +285,16 @@ Satyam
 | [0518-coin-change-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0518-coin-change-ii) |
 | [0733-flood-fill](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0875-koko-eating-bananas) |
+| [0956-tallest-billboard](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0956-tallest-billboard) |
 | [0994-rotting-oranges](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1048-longest-string-chain](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1048-longest-string-chain) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1288-remove-covered-intervals) |
+| [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -298,6 +305,7 @@ Satyam
 | [0072-edit-distance](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0583-delete-operation-for-two-strings) |
+| [1048-longest-string-chain](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -316,6 +324,8 @@ Satyam
 | [0797-all-paths-from-source-to-target](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0841-keys-and-rooms) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
+| [3123-find-edges-in-shortest-paths](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3123-find-edges-in-shortest-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -335,18 +345,23 @@ Satyam
 | [0958-check-completeness-of-a-binary-tree](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0994-rotting-oranges) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3123-find-edges-in-shortest-paths](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3123-find-edges-in-shortest-paths) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0133-clone-graph) |
+| [1048-longest-string-chain](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
@@ -360,6 +375,8 @@ Satyam
 | [0785-is-graph-bipartite](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0841-keys-and-rooms) |
+| [3123-find-edges-in-shortest-paths](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3123-find-edges-in-shortest-paths) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Tree
 |  |
@@ -387,9 +404,12 @@ Satyam
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
@@ -397,15 +417,20 @@ Satyam
 | ------- |
 | [0130-surrounded-regions](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cs-satyam/Code-with-Satyam/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3123-find-edges-in-shortest-paths](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3123-find-edges-in-shortest-paths) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Sorting
 |  |
 | ------- |
+| [1048-longest-string-chain](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1288-remove-covered-intervals) |
 ## Math
 |  |
@@ -439,6 +464,8 @@ Satyam
 | [0070-climbing-stairs](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0416-partition-equal-subset-sum) |
@@ -446,6 +473,8 @@ Satyam
 | [0516-longest-palindromic-subsequence](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0583-delete-operation-for-two-strings) |
+| [0956-tallest-billboard](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0956-tallest-billboard) |
+| [1048-longest-string-chain](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1048-longest-string-chain) |
 ## Greedy
 |  |
 | ------- |
@@ -468,4 +497,30 @@ Satyam
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0005-longest-palindromic-substring) |
+| [1048-longest-string-chain](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1048-longest-string-chain) |
+## Shortest Path
+|  |
+| ------- |
+| [3123-find-edges-in-shortest-paths](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3123-find-edges-in-shortest-paths) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1631-path-with-minimum-effort) |
+## Meet in the Middle
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0956-tallest-billboard) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0956-tallest-billboard) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0956-tallest-billboard) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
