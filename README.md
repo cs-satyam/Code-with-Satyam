@@ -523,4 +523,8 @@ Satyam
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0300-longest-increasing-subsequence) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
