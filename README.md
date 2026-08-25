@@ -176,3 +176,19 @@ For packaged classes, use the fully qualified class name. Some solution files ar
 ## Author
 
 Satyam
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0647-palindromic-substrings) |
+## String
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0647-palindromic-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0647-palindromic-substrings) |
+<!---LeetCode Topics End-->
