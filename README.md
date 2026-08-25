@@ -190,5 +190,14 @@ Satyam
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0070-climbing-stairs) |
 | [0647-palindromic-substrings](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0647-palindromic-substrings) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
