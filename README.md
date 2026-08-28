@@ -210,11 +210,13 @@ Satyam
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0200-number-of-islands) |
+| [0743-network-delay-time](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0743-network-delay-time) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0200-number-of-islands) |
+| [0743-network-delay-time](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0743-network-delay-time) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Union-Find
 |  |
@@ -231,9 +233,19 @@ Satyam
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0743-network-delay-time) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0743-network-delay-time) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
