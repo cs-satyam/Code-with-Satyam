@@ -176,3 +176,54 @@ For packaged classes, use the fully qualified class name. Some solution files ar
 ## Author
 
 Satyam
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0647-palindromic-substrings) |
+## String
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0647-palindromic-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0070-climbing-stairs) |
+| [0647-palindromic-substrings](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0647-palindromic-substrings) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0200-number-of-islands) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0200-number-of-islands) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1376-time-needed-to-inform-all-employees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0200-number-of-islands) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1376-time-needed-to-inform-all-employees) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0200-number-of-islands) |
+## Tree
+|  |
+| ------- |
+| [1376-time-needed-to-inform-all-employees](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1376-time-needed-to-inform-all-employees) |
+<!---LeetCode Topics End-->
