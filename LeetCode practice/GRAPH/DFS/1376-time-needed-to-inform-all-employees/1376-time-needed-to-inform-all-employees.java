@@ -1,4 +1,3 @@
-import java.util.*;
 class Solution {
     public int numOfMinutes(int n, int headID, int[] manager, int[] informTime) {
         List<List<Integer>> adj = new ArrayList<>();
