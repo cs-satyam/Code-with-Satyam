@@ -207,6 +207,7 @@ Satyam
 | ------- |
 | [0200-number-of-islands](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0200-number-of-islands) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -229,6 +230,7 @@ Satyam
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0200-number-of-islands) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Tree
 |  |
 | ------- |
@@ -239,6 +241,7 @@ Satyam
 | [0743-network-delay-time](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -249,9 +252,11 @@ Satyam
 | ------- |
 | [0743-network-delay-time](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
