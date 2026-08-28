@@ -38,12 +38,12 @@ Output:
 
 | Question | Difficulty | Solution |
 | --- | --- | --- |
-| [0733-flood-fill](https://leetcode.com/problems/0733-flood-fill/) | easy | [GitHub](https://github.com/cs-satyam/Code-with-Satyam/tree/master/LeetCode%20practice/GRAPH/0733-flood-fill) |
-| [0841-keys-and-rooms](https://leetcode.com/problems/0841-keys-and-rooms/) | medium | [GitHub](https://github.com/cs-satyam/Code-with-Satyam/tree/master/LeetCode%20practice/GRAPH/0841-keys-and-rooms) |
+| [0733-flood-fill](https://leetcode.com/problems/0733-flood-fill/) | easy | [GitHub](https://github.com/cs-satyam/Code-with-Satyam/tree/master/LeetCode%20practice/GRAPH/DFS/0733-flood-fill) |
+| [0841-keys-and-rooms](https://leetcode.com/problems/0841-keys-and-rooms/) | medium | [GitHub](https://github.com/cs-satyam/Code-with-Satyam/tree/master/LeetCode%20practice/GRAPH/DFS/0841-keys-and-rooms) |
 | [1376-time-needed-to-inform-all-employees](https://leetcode.com/problems/1376-time-needed-to-inform-all-employees/) | medium | [GitHub](https://github.com/cs-satyam/Code-with-Satyam/tree/master/LeetCode%20practice/GRAPH/1376-time-needed-to-inform-all-employees) |
 | [0797-all-paths-from-source-to-target](https://leetcode.com/problems/0797-all-paths-from-source-to-target/) | medium | [GitHub](https://github.com/cs-satyam/Code-with-Satyam/tree/master/LeetCode%20practice/GRAPH/0797-all-paths-from-source-to-target) |
 | [0133-clone-graph](https://leetcode.com/problems/0133-clone-graph/) | medium | [GitHub](https://github.com/cs-satyam/Code-with-Satyam/tree/master/LeetCode%20practice/GRAPH/0133-clone-graph) |
-| [0785-is-graph-bipartite](https://leetcode.com/problems/0785-is-graph-bipartite/) | medium | [GitHub](https://github.com/cs-satyam/Code-with-Satyam/tree/master/LeetCode%20practice/GRAPH/0785-is-graph-bipartite) |
+| [0785-is-graph-bipartite](https://leetcode.com/problems/0785-is-graph-bipartite/) | medium | [GitHub](https://github.com/cs-satyam/Code-with-Satyam/tree/master/LeetCode%20practice/GRAPH/DFS/0785-is-graph-bipartite) |
 | [3532-path-existence-queries-in-a-graph-i](https://leetcode.com/problems/3532-path-existence-queries-in-a-graph-i/) | medium | [GitHub](https://github.com/cs-satyam/Code-with-Satyam/tree/master/LeetCode%20practice/GRAPH/3532-path-existence-queries-in-a-graph-i) |
 | [0130-surrounded-regions](https://leetcode.com/problems/0130-surrounded-regions/) | medium | [GitHub](https://github.com/cs-satyam/Code-with-Satyam/tree/master/LeetCode%20practice/GRAPH/0130-surrounded-regions) |
 | [0494-target-sum](https://leetcode.com/problems/0494-target-sum/) | medium | [GitHub](https://github.com/cs-satyam/Code-with-Satyam/tree/master/LeetCode%20practice/GRAPH/0494-target-sum) |
