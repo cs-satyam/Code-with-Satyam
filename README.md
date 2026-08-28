@@ -192,6 +192,7 @@ Satyam
 | ------- |
 | [0070-climbing-stairs](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0070-climbing-stairs) |
 | [0647-palindromic-substrings](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0647-palindromic-substrings) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Math
 |  |
 | ------- |
@@ -204,6 +205,7 @@ Satyam
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0200-number-of-islands) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -226,4 +228,12 @@ Satyam
 |  |
 | ------- |
 | [1376-time-needed-to-inform-all-employees](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1376-time-needed-to-inform-all-employees) |
+## Graph Theory
+|  |
+| ------- |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 <!---LeetCode Topics End-->
