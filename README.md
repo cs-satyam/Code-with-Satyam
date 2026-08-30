@@ -191,6 +191,7 @@ Satyam
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0070-climbing-stairs) |
 | [0647-palindromic-substrings](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -207,6 +208,7 @@ Satyam
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0200-number-of-islands) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/cs-satyam/Code-with-Satyam/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -232,6 +234,7 @@ Satyam
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/cs-satyam/Code-with-Satyam/tree/master/0200-number-of-islands) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/cs-satyam/Code-with-Satyam/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Tree
